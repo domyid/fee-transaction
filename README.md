@@ -20,10 +20,10 @@ tata cara mengubah fee transaction di aplikasi Wonpay
     <img src="https://github.com/user-attachments/assets/b8688f3c-8b7f-46bc-908b-6d4b4eb4a594" width="300">
    </p>
 
-- Lalu ubah jumlah fee untuk transaksi menjadi 0.0141
+- Lalu ubah jumlah fee untuk transaksi menjadi 0.0226
 
    <p align="center">
-    <img src="https://github.com/user-attachments/assets/9db4f28e-8d6f-471b-b025-65991a77632f" width="300">
+    <img src="https://github.com/user-attachments/assets/04d3ec23-91fd-425b-b904-0ef5c8ceafff" width="300">
    </p>
 
 - selesai
